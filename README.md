@@ -1,2 +1,9 @@
-# Numpy_Assignment1
- NumPy Assignment no. 1 : 50 NumPy Methods
+# NumPy ASSIGNMENT no 1
+## TASK: Implement 50 NumPy Methods
+
+
+### Submitted by : 
+HINA ZARGHAM
+</br>
+PIAIC101499
+
